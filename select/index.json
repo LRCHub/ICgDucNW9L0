@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嘘ミーム",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-03-10T17:32:40.558893Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘ミーム",
+      "artist": "Pinocchio P",
+      "has_synced": false,
+      "path": "select/pl_01_嘘ミーム_Pinocchio_P.txt"
+    }
+  ]
+}
